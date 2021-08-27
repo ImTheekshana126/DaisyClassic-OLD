@@ -12,7 +12,7 @@
 3) Create a new bot from @botfather and copy its api token
 4) Click Deploy
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshana126/Daisy.git)
 ```
 5) Give an app name
 36 Paste the Api token copied at token space
